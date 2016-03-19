@@ -1,0 +1,16 @@
+*{
+	padding:0;
+	margin: 0;
+}
+
+h1{
+	font-family: Futura;
+	color:#5FB404; /* possible green selection? */
+}
+
+.logo{
+  width: 5%;
+  height: 2%;
+  position: left;
+  
+}
