@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link type="text/css" rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1 class="logo"><img src="https://pbs.twimg.com/profile_images/1643762549/roots4all.jpg"; style=width:300px;height:175px;> </h1>
+    <!--<h2 class="search"><img src="" /></h2> -->
+
+    <nav class="nav1">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Tutorial</a></li>
+            <li><a href="#">Search</a></li>
+            <li><a href="#">Create or Edit Repositories</a></li>
+            <li><a href="#">Create New Account</a> </li>
+            <li><a href="#">My account</a></li>
+
+        </ul>
+    </nav>
+    <table border="1" style="width:17%">
+        <tr><td>Home2 </td></tr>
+        <tr><td>Tutorial2 </td></tr>
+        <tr><td>Search2 </td></tr>
+        <tr><td>Create or Edit Respositories </td></tr>
+        <tr><td>Create New Account </td></tr>
+        <tr><td>My Account </td></tr>
+    </table>
+    <!--page 2-->
+    <div data-role="page"  data-dialog="true" data-theme="a" id="page6">
+            <div data-role="header">
+                <h3>Create or Enter A Repository</h3>
+            </div><!-- /header -->
+            
+            <div class="ui-grid-a ui-responsive">
+                <div class="ui-block-a"><a href="#page6" class="ui-btn ui-corner-all" class id="LookUpRepo">LookUp</a></div>
+                <div class="ui-block-b"><a href="#page6" class="ui-btn ui-corner-all" class id="Clear">Clear Form</a></div>
+                <form id="chooseForm">
+                    <div class="ui-field-contain" style="display: none" id="chooseDiv">
+                        <label for="choose" class="select">Choose:</label>
+                        <select name="choose" id="choose" data-native-menu="false">
+                            <!-- Add options here -->
+                        </select>
+                    </div>
+                </form>
+            </div>
+
+            <div role="main" class="ui-content">
+                <form id="repoForm">
+                    <div role="main" class="ui-content">
+                <form id="repoForm">
+<!--
+                    <div class="ui-field-contain">
+                        <label for="noteContent">Number:</label>
+                        <input type="text" id="noteName" name="noteContent"></input>
+                    </div>
+-->
+                    <div class="ui-field-contain">
+                        <label for="orgname">Organization Name:</label>
+                        <input type="text" id="orgName" name="orgName">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="streetAddr">Street Address:</label>
+                        <input type="text" id="streetAddr" name="streetAddr">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="mailAddr">Mailing Address:</label>
+                        <input type="text" id="mailAddr" name="mailAddr">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="city">City or Township:</label>
+                        <input type="text" id="city" name="city">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="county">County or District:</label>
+                        <input type="text" id="county" name="county">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="state">State or Province:</label>
+                        <input type="text" id="state" name="state">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="country">Country:</label>
+                        <input type="text" id="country" name="country">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="zip">Zip or Postal Code:</label>
+                        <input type="text" id="zip" name="zip">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="phone">Phone Number:</label>
+                        <input type="text" id="phone" name="phone">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="hours">Hours:</label>
+                        <input type="text" id="hours" name="hours">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="website">Website:</label>
+                        <input type="text" id="website" name="website">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="zip">Latitude, Longitude:</label>
+                        <input type="text" id="latlng" name="latlng">
+                    </div>
+                    <div class="ui-field-contain">
+                        <label for="notes">Comments:</label>
+                        <input type="text" id="notes" name="notes">
+                    </div>
+                    
+                    
+                    <div data-role="controlgroup" data-type="horizontal">
+                        <input type="button" id="saveRepo"   value="Save"  data-inline="true">
+                        <input type="button" id="reloadRepo" value="Reload" data-inline="true">
+                        <input type="button" id="deleteRepo" value="Delete" data-inline="true">
+                        <input type="button" id="deleteDatabase" value="Delete ALL" data-inline="true">
+                    </div>
+                </form>
+                <!--"Go Back" button
+                <div role="main" class="ui-content">
+                    <a href="#page1" class="ui-btn" data-rel="back">Go Back</a>
+                </div><!-- /content -->
+                
+                
+            </div><!-- /content -->
+        </div><!-- /page6 -->
+        
+
+    <body>
+</html>
