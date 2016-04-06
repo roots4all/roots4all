@@ -4,15 +4,27 @@
 	text-decoration: none;
 }
 
+.search_bar{
+	width: 1000px;
+	float: right;
+	vertical-align: baseline;
+	position: relative;
+}
+
+
+
+
 
 nav {
 	height: 100px;
-	width: 150px;
+	width: 165px;
 	background-color: #e6ffcc; /* green color as well */
-
+	float: left;
 }
+
 nav ul li{
 	text-align: left;
+	list-style: none;
 }
 nav ul li a{
 	color:#331a00;
@@ -23,5 +35,10 @@ nav ul li:hover{
 }
 
 input{
-	width: 75%;
+	width: 35%;
+
+}
+
+div.ui-content{
+	float:center;
 }
