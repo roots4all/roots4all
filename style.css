@@ -2,29 +2,44 @@
 *{
 	padding:0;
 	margin: 0;
+	text-decoration: none;
 }
 
+.newaccount{
+
+	text-align: left;
+	float: left;
+}
+a.newaccount{
+	text-decoration: none;
+	color: #5FB404;
+}
+a.newaccount:hover{
+	background-color:#FBFBEF;
+	color: #5FB404;
+}
 h1{
 	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 	color:#5FB404; /* possible green selection? */
 }
 
-nav {
+.nav {
 	height: 50px;
 	background-color: #5FB404; /* green color as well */
 	
 }
 
-nav ul li {
+div ul li{
 	list-style-type: none;
 	width: 175px;
+	display: inline;
 	float: left;
 	border-right: 1px solid #CCC;
 	text-align: center;
 	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 }
 
-nav ul li a{
+div ul li a{
 	text-decoration: none;
 	color:#FBFBEF;
 	line-height: 50px;
@@ -32,13 +47,35 @@ nav ul li a{
 }
 
 li a:hover{
-	background-color:#FBFBEF ;
+	background-color:#FBFBEF;
 	color: #5FB404;
+}
+
+
+table{
+	background-color: #5FB404;
+	float: left;
 }
 html body {
 background-color:#FBFBEF; /*Cream color, better than white? */
 }
 
+.createnew{
+	float:left;
+	border: 1px dashed;
+}
+.Myaccount{
+	float:left;
+	background-color:#FBFBEF;
+	color: #5FB404;
+	text-decoration: none;
+}
+
+
+.map{
+	float: right;
+}
+/*
 div {
     width: 300px;
     padding: 25px;
@@ -71,3 +108,4 @@ table tr td a {
 	text-decoration: none;
 	color:#FBFBEF;
 }
+*/
