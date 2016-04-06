@@ -1,0 +1,27 @@
+*{
+	padding:0;
+	margin: 0;
+	text-decoration: none;
+}
+
+
+nav {
+	height: 100px;
+	width: 150px;
+	background-color: #e6ffcc; /* green color as well */
+
+}
+nav ul li{
+	text-align: left;
+}
+nav ul li a{
+	color:#331a00;
+}
+
+nav ul li:hover{
+	background-color: 66cc00;
+}
+
+input{
+	width: 75%;
+}
