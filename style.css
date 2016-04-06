@@ -1,16 +1,73 @@
+
 *{
 	padding:0;
 	margin: 0;
 }
 
 h1{
-	font-family: Futura;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 	color:#5FB404; /* possible green selection? */
 }
 
-.logo{
-  width: 5%;
-  height: 2%;
-  position: left;
-  
+nav {
+	height: 50px;
+	background-color: #5FB404; /* green color as well */
+	
+}
+
+nav ul li {
+	list-style-type: none;
+	width: 175px;
+	float: left;
+	border-right: 1px solid #CCC;
+	text-align: center;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color:#FBFBEF;
+	line-height: 50px;
+	display:block;
+}
+
+li a:hover{
+	background-color:#FBFBEF ;
+	color: #5FB404;
+}
+html body {
+background-color:#FBFBEF; /*Cream color, better than white? */
+}
+
+div {
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+    background-color: green;
+    float: right;
+}
+
+div p{
+	background-color: white;
+	float: right;
+}
+
+div div p{
+	background-color: white;
+	float: right;
+}
+
+table{
+	margin-left: 0px;
+	border-collapse: collapse;
+	float: left;
+	background-color: #5FB404;
+	text-align: left;
+	color:#FBFBEF;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+table tr td a {
+	text-decoration: none;
+	color:#FBFBEF;
 }
