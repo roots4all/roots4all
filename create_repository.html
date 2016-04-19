@@ -10,16 +10,13 @@
                     <header>
                         <h1 class="logo"><a href="dashboard.html"><img src="roots4all.jpg"> </h1></a>
                         
-                        <form class="search_bar">
-                                <input type="text" placeholder="Search..." required>
-                                <input type="button" value="Search">
-                        </form>
+                        
 
                         <div class="col-1-3">
                             <nav>
                                 <ul>
-                                    <li><a href="search.html">Search</a></li>
-                                    <li><a href="new_account.html">Log in</a></li>
+                                    <li><a href="search.html">Search Map</a></li>
+                                    <li><a href="new_account.html">Login</a></li>
                                     <li><a href="account_dashboard.html">My account</a></li>
                                     <li><a href="create_repository.html">Create Repositories</a></li>
                                     <li><a href="edit_repository.html">Edit Repositories</a></li>
@@ -36,9 +33,11 @@
                 
             <!--page 2-->
             <article data-role="page"  data-dialog="true" data-theme="a" id="page6">
-                    <div data-role="header">
+                <br>
+
+                    <div class= "col-2-3" data-role="header">
                         <h3>Create or Enter A Repository</h3>
-                    </div><!-- /header -->
+                    <!-- /header -->
                     
                     <div class="ui-grid-a ui-responsive">
                         <div class="ui-block-a"><a href="#page6" class="ui-btn ui-corner-all" class id="LookUpRepo">LookUp</a></div>
@@ -123,10 +122,10 @@
                             </table>
                             
                             <div data-role="controlgroup" data-type="horizontal">
-                                <input type="button" id="saveRepo"   value="Save"  data-inline="true">
-                                <input type="button" id="reloadRepo" value="Reload" data-inline="true">
-                                <input type="button" id="deleteRepo" value="Delete" data-inline="true">
-                                <input type="button" id="deleteDatabase" value="Delete ALL" data-inline="true">
+                                <input class="button" type="button" id="saveRepo"   value="Save"  data-inline="true">
+                                <input class="button"  type="button" id="reloadRepo" value="Reload" data-inline="true">
+                                <input class="button" type="button" id="deleteRepo" value="Delete" data-inline="true">
+                                <input class="button" type="button" id="deleteDatabase" value="Delete ALL" data-inline="true">
                             </div>
                         </form>
                         <!--"Go Back" button
@@ -135,7 +134,8 @@
                         </div><!- /content -->
                         
                         
-                    </div><!-- /content -->
+                    </div>
+                </div><!-- /content -->
                 </article><!-- /page6 -->
                 
 

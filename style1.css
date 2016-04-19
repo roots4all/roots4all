@@ -5,40 +5,50 @@
 }
 
 .search_bar{
-	width: 1000px;
-	float: right;
+	width: 1800px;
 	vertical-align: baseline;
-	position: relative;
+	
 }
-
-
-
-
-
+.button{
+	background-color: #e6ffcc;
+	width: 70px;
+}
 nav {
-	height: 100px;
+	height: 200px;
 	width: 165px;
-	background-color: #e6ffcc; /* green color as well */
+	/*background-color: #e6ffcc; /* green color as well */
 	float: left;
+
 }
 
 nav ul li{
+	height: 30px;
+	width: 150px;
 	text-align: left;
 	list-style: none;
+	border-bottom: 1px solid #66cc00;
+	vertical-align: middle;
+
 }
 nav ul li a{
 	color:#331a00;
+	display: block;
+
 }
 
 nav ul li:hover{
-	background-color: 66cc00;
+	/* background-color: 66cc00; */
+	background-color: #e6ffcc;
 }
 
 input{
 	width: 35%;
-
 }
 
 div.ui-content{
 	float:center;
+}
+
+.ui-content{
+	text-align: ;
 }

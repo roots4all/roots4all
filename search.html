@@ -9,12 +9,14 @@
             <body>
                 <header>
                     <h1 class="logo"><a href="dashboard.html"><img src="roots4all.jpg"> </h1></a>
-                <!--<h2 class="search"><img src="" /></h2> -->
+                    
+                    
+                    
                        <div class="col-1-3">
                             <nav>
                                 <ul>
-                                    <li><a href="search.html">Search</a></li>
-                                    <li><a href="new_account.html">Log in</a></li>
+                                    <li><a href="search.html">Search Map</a></li>
+                                    <li><a href="new_account.html">Login</a></li>
                                     <li><a href="account_dashboard.html">My account</a></li>
                                     <li><a href="create_repository.html">Create Repositories</a></li>
                                     <li><a href="edit_repository.html">Edit Repositories</a></li>
@@ -25,11 +27,16 @@
                             </nav>
                         </div>
                 </header>
+            </body>
             <!--page 2-->
             <div class="col-2-3">
-                <p>Hey this is the search page!</p>
-            </div>    
-
-            </body>
-    </div>
+                             
+                <form class="search_bar">
+                        <input type="text" placeholder="Search..." required>
+                         <input class="button" type="button" value="Search">
+                </form>    
+            
+            <br>
+                <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:500px; width:1500px;'><div id='gmap_canvas' style='height:500px;width:700px;'></div><div><small><a href="http://embedgooglemaps.com">                                   embed google maps                           </a></small></div><div><small><a href="http://www.proxysitereviews.com/instantproxies">instantproxies</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:15,center:new google.maps.LatLng(41.8976773,-87.62704159999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(41.8976773,-87.62704159999998)});infowindow = new google.maps.InfoWindow({content:'<strong>Loyola University Chicago</strong><br>25 E Pearson, Chicago, IL, United States<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+            </div>
 </html>
