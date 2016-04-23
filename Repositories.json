@@ -1,0 +1,694 @@
+{
+	"repositories": [
+
+		{
+
+		"Organization" : "All Saints Polish National Church",
+		"Physical Address" : "9201 W Higgins"	,
+		"City or town": "Chicago"	,
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60631"	,
+		"lat": "41.9880931",
+		"lng": "-87.8532944",	
+		"Phone": "(773) 380-0528"
+
+		},
+		{
+
+		"Organization" : "Evangelical Lutheran Church in America",
+		"Physical Address" : "8765 W Higgins Rd.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60631",
+		"lat": "41.9871006",
+		"lng": "-87.845918",
+		"Phone": "(773) 380-2700"
+
+		},
+		{
+
+
+		"Organization" : "The Evangelical Covenant Church",
+		"Physical Address" : "8303 W Higgins Rd.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60631",
+		"lat": "41.985791",
+		"lng": "-87.8343163",
+		"Phone": "(773) 784-3000"
+		},
+		{
+
+		"Organization" : "Holy Resurrection Cathedral",
+		"Physical Address" : "5701 N Redwood Dr.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60631",
+		"lat": "41.9831949",
+		"lng": "-87.8280116",
+		"Phone": "(773) 693-3367"
+
+		},
+		{
+
+		"Organization" : "Saint Joseph Ukrainian Catholic Church",
+		"Physical Address" : "5000 N Cumberland",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60656",
+		"lat": "41.9705384",
+		"lng": "-87.8372053",
+		"Phone": "(773) 625-4805"
+
+		},
+		{
+
+		"Organization" : "Saint Nicholas Ukrainian Catholic Cemetery",
+		"Physical Address" : "835 N Oakley Blvd.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60622",
+		"lat": "41.987702",
+		"lng": "-87.849929",
+		"Phone": " "
+
+		},
+		{
+		"Organization" : "All Saints National Catholic Church Cemetery",
+		"Physical Address" : "9201 W Higgins",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60431",
+		"lat": "41.9880931",
+		"lng": "-87.8532944",
+		"Phone": " "
+
+		},
+		{
+		"Organization" : "Westlawn Cemetery and Mausoleum",
+		"Physical Address" : "7801 W Montrose",
+		"City or town": "Norridge",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60706",
+		"lat": "41.958027",
+		"lng": "-87.8292125",
+		"Phone": " "
+
+		},
+		{
+		"Organization" : "Acacia Park Cemetery",
+		"Physical Address" : "7800 W Irving Park Road",
+		"City or town": "Harwood Heights",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60706",
+		"lat": "41.9526484",
+		"lng": "-87.8223165",
+		"Phone": " "
+
+		},
+		{
+
+		"Organization" : "Irving Park Cemetery",
+		"Physical Address" : "7777 W Irving Park Road",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60634",
+		"lat": "41.9524447",
+		"lng": "-87.8214343",
+		"Phone": " "
+
+		},
+		{
+
+		"Organization" : "Oriole Park Public Library",
+		"Physical Address" : "7454 W Balmoral",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60656",
+		"lat": "41.9780994",
+		"lng": "-87.8132975",
+		"Phone": "(312) 744-1965"
+
+		},
+		{
+
+		"Organization" : "Eisenhower Public Library",
+		"Physical Address" : "4613 N Oketo",
+		"City or town": "Harwood Heights",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60706",
+		"lat": "41.9639866",
+		"lng": "-87.8116205",
+		"Phone": "(708) 867-7828"
+
+		},
+		{
+
+		"Organization" : "Roden Library",
+		"Physical Address" : "6083 N Northwest Hwy",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60631",
+		"lat": "41.9921166",
+		"lng": "-87.7979695",
+		"Phone": "(312) 744-1478"
+
+		},
+		{
+
+		"Organization" : "Newberry Library",
+		"Physical Address" : "60 W Walton Street",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois" ,
+		"Country": "USA",
+		"Zip or postal code": 	"60610",
+		"lat": "41.9000473",
+		"lng": "-87.6305461",
+		"Phone": "(312) 943-9090"
+
+		},
+		{
+		"Organization" : "Pritzker Military Museum and Library",
+		"Physical Address" : "104 S Michigan Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60603",
+		"lat": "41.8805991",
+		"lng": "-87.6249387",
+		"Phone": "(312) 374-9333"
+
+		},
+		{
+		"Organization" : "American Library Association",
+		"Physical Address" : "50 E Huron St.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois" ,
+		"Country": "USA",
+		"Zip or postal code": "60611" 	,
+		"lat": "41.8950646",
+		"lng": "-87.6260998",
+		"Phone": "(800) 545-2433"
+
+		},
+		{
+		"Organization" : "Passionist Academic Institutional Library",
+		"Physical Address" : "5700 N Harlem Ave",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60631",
+		"lat": "41.9851669",
+		"lng": "-87.808217",
+		"Phone": "(773) 631-1686"
+
+		},
+		{
+		"Organization" : "National Archives and Records Association",
+		"Physical Address" : "7358 S Pulaski Road",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60629",
+		"lat": "41.7591621",
+		"lng": "-87.7222736",
+		"Phone": "(773) 948-9000"
+
+		},
+		{
+
+		"Organization" : "Cook County Municipal Judge",
+		"Physical Address" : "50 W Washington St. #1301",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60602",
+		"lat": "41.8840611",
+		"lng": "-87.6302428",
+		"Phone": "(312) 603-6601"
+
+		},
+		{
+		"Organization" : "Cook County Commissioner",
+		"Physical Address" : "3801 W Lake Ave",
+		"City or town": "Glenview",
+		"County": "Cook",
+		"State or province": "Illinois", 
+		"Country": "USA",
+		"Zip or postal code": 	"60026",
+		"lat": "42.0872442",
+		"lng": "-87.850268",
+		"Phone": "(847) 729-9300"
+
+		},
+		{
+		"Organization" : "Brandel Library",
+		"Physical Address" : "5114 N Christiana Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60625",
+		"lat": "41.9748976",
+		"lng": "-87.7123323",
+		"Phone": "(773) 244-6200"
+
+		},
+		{
+		"Organization" : "Loyola University Chicago",
+		"Physical Address" : "1032 W Sheridan Rd.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois" ,
+		"Country": "USA",
+		"Zip or postal code": 	"60660",
+		"lat": "42.000535",
+		"lng": "-87.659264",
+		"Phone": "(773) 274-3000"
+
+		},
+		{
+
+		"Organization" : "DePaul University Richardson Library",
+		"Physical Address" : "2350N Kenmore Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60614",
+		"lat": "41.9249244",
+		"lng": "-87.6554169",
+		"Phone": "(773) 325-7862"
+
+		},
+		{
+		"Organization" : "Swedish American Museum",
+		"Physical Address" : "5211 N Clark St.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60640",
+		"lat": "41.9766622",
+		"lng": "-87.6680889",
+		"Phone": "(773) 728-8111"
+
+		},
+		{
+		"Organization" : "Polish Museum of America",
+		"Physical Address" : "984 N Milwaukee",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois" ,
+		"Country": "USA",
+		"Zip or postal code": 	"60642",
+		"lat": "41.899654",
+		"lng": "-87.6611461",
+		"Phone": "(773) 384-3352"
+
+		},
+		{
+
+		"Organization" : "Jewish Genealogical Society of Illinois",
+		"Physical Address" : "PO Box 515",
+		"City or town": "Northbrook",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60065",
+		"lat": "42.138337",
+		"lng": "-87.84006",
+		"Phone": "(312) 666-0100"
+
+		},
+		{
+		"Organization" : "Chicago Historical Society",
+		"Physical Address" : "1601 N Clark St.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60614",
+		"lat": "41.9119691",
+		"lng": "-87.6315025",
+		"Phone": "(312) 642-4844"
+
+		},
+		{
+
+		"Organization" : "Norwood Park Historical Society",
+		"Physical Address" : "5624 N Newark Ave",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois", 
+		"Country": "USA",
+		"Zip or postal code": 	"60631",
+		"lat": "41.983421",
+		"lng": "-87.795829",
+		"Phone": "(773) 631-4633"
+
+		},
+		{
+		"Organization" : "Historical Society of Oak Park and River Forest",
+		"Physical Address" : "217 Home Ave.",
+		"City or town": "Oak Park",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60302",
+		"lat": "41.885609",
+		"lng": "-87.8000918",
+		"Phone": "(708) 848-6755",
+
+		},
+		{
+
+		"Organization" : "Embalmers Funeral Directors",
+		"Physical Address" : "1300 W Higgins Rd. #111",
+		"City or town": "Park Ridge",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60068",
+		"lat": "41.9872897",
+		"lng": "-87.8426552",
+		"Phone": "(847) 696-7500"
+
+		},
+		{
+
+		"Organization" : "Cumberland Chapels Funeral Home",
+		"Physical Address" : "8300 W Lawrence Ave.",
+		"City or town": "Norridge",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60706",
+		"lat": "41.967027",
+		"lng": "-87.834253",
+		"Phone": "(708) 456-8300"
+
+		},
+		{
+
+		"Organization" : "Elm's Funeral Home",
+		"Physical Address" : "6857 W Higgins Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60656"	,
+		"lat": "41.9793511",
+		"lng": "-87.7994438",
+		"Phone": "(708) 453-1234"
+
+		},
+		{
+		"Organization" : "Federal Bureau of Investigations Chicago",
+		"Physical Address" : "2111 W Roosevelt Rd.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60608",
+		"lat": "41.8657563",
+		"lng": "-87.6797971",
+		"Phone": "(312) 421-6700"
+
+		},
+		{
+
+		"Organization" : "Chicago Immigration Court",
+		"Physical Address" : "525 W Van Buren St. Ste. 500",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60607",
+		"lat": "41.8764775",
+		"lng": "-87.6402295",
+		"Phone": "(312) 697-5800"
+		},
+		{
+		"Organization" : "Cook County Municipal Judge",
+		"Physical Address" : "50 W Washington St. #1301",
+		"City or town": "Chicago",
+		"County": "Cook",				
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60602",
+		"lat": "41.8840611",
+		"lng": "-87.6302428",
+		"Phone": "(312) 603-6601"
+
+		},
+		{
+
+		"Organization" : "Chicago Cultural Alliance",
+		"Physical Address" : "70  E Lake St. #1200",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60601",
+		"lat": "41.8860676",
+		"lng": "-87.6256982",
+		"Phone": "(312) 846-6814"
+
+		},
+		{
+		"Organization" : "Evangelical Lutherna Church of America",
+		"Physical Address" : "8765 W Higgins Rd",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60631",
+		"lat": "41.9871006",
+		"lng": "-87.845918",
+		"Phone": "(773) 380-2700"
+
+		},
+		{
+
+		"Organization" : "Saint Mary's Episcopal Church",
+		"Physical Address" : "306 S Prospect Ave.",
+		"City or town": "Park Ridge",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60068",
+		"lat": "42.0072023",
+		"lng": "-87.8330712",
+		"Phone": "(847) 823-4126"
+
+		},
+		{
+		"Organization" : "Bethel Community Church",
+		"Physical Address" : "7601 W Foster Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60656",
+		"lat": "41.9738085",
+		"lng": "-87.8173931",
+		"Phone": "(773) 775-2355"
+
+		},
+		{
+
+		"Organization" : "Holy Trinity Lutheran Church",
+		"Physical Address" : "1218 W Addison St.",
+		"City or town": "Chicago",
+		"County": "Cook",				
+		"State or province": "Illinois",
+		"Country": "USA",				
+		"Zip or postal code": 	"60613",
+		"lat": "41.9473675",
+		"lng": "-87.6601303",		
+		"Phone": "(773) 248-1233"
+
+		},	
+		{
+
+		"Organization" : "The Moody Church",
+		"Physical Address" : "1635 N LaSalle St",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": 	"60614",
+		"lat": "41.9123095",
+		"lng": "-87.6326747",
+		"Phone": "(312) 327-8600"
+
+		},
+		{
+
+		"Organization" : "Wicker Park Lutheran Church",
+		"Physical Address" : "1500 N Hoyne Ave",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60622",
+		"lat": "41.9083811",
+		"lng": "-87.6801693",
+		"Phone": "(773) 276-0263"
+
+		},
+		{
+		"Organization" : "Epiphany Church",
+		"Physical Address" : "201 S Ashland Ave",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60607",
+		"lat": "41.878676",
+		"lng": "-87.666263",
+		"Phone": "(312) 243-4242"
+
+		},
+		{
+		"Organization" : "Archdiocese of Chicago's Joseph Cardinal Bernardin Archives & Records Center",
+		"Physical Address" : "711 W Monroe St",
+		"City or town": "Chicago",
+		"County": "Cook",				
+		"State or province": "Illinois",
+		"Country": "USA",				
+		"Zip or postal code": "60661",
+		"lat": "41.880177",
+		"lng": "-87.6447869",
+		"Phone": "(312) 534-4450"
+
+		},
+		{
+
+		"Organization" : "Wilmette Family History Center",
+		"Physical Address" : "2727 E Lake Ave.",
+		"City or town": "Wilmette",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60091" ,
+		"lat": "42.078592",
+		"lng": "-87.743197",
+		"Phone": "(847) 251-9818"
+
+		},
+		{
+		"Organization" : "DePaul University O'Hare",
+		"Physical Address" : "8770 W Bryn Mawr Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60631",
+		"lat": "41.9831673",
+		"lng": "-87.8453946",
+		"Phone": "(312) 476-3600"
+
+		},
+		{
+		"Organization" : "Archdiocese of Chicago's Joseph Cardinal Bernardin Archives & Records Center",
+		"Physical Address" : "711 W Monroe St",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60661",
+		"lat": "41.880177",
+		"lng": "-87.6447869",
+		"Phone": "(312) 534-4450"
+
+		},
+		{
+		"Organization" : "Office of Catholic Schools",
+		"Physical Address" : "835 N Rush St",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60611",
+		"lat": "41.8980535",
+		"lng": "-87.6260078",
+		"Phone": "(312) 534-5200"
+
+		},
+		{
+
+		"Organization" : "Northeastern Illinois University",
+		"Physical Address" : "5500 N St Louis Ave",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60625",
+		"lat": "41.9802119",
+		"lng": "-87.7187973",
+		"Phone": "(773) 583-4050"
+
+		},
+		{
+
+		"Organization" : "Orthopaedic Trauma Association",
+		"Physical Address" : "6300 N River Road",
+		"City or town": "Rosemont",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA",
+		"Zip or postal code": "60018",
+		"lat": "41.9946775",
+		"lng": "-87.8619625",
+		"Phone": "(847) 698-1631"
+
+		},
+		{
+
+		"Organization" : "Chicago-Reed Mental Health Center",
+		"Physical Address" : "4200 N Oak Park Ave.",
+		"City or town": "Chicago",
+		"County": "Cook",
+		"State or province": "Illinois",
+		"Country": "USA"	,
+		"Zip or postal code": "60634" ,
+		"lat": "41.9576601",
+		"lng": "-87.7966888",
+		"Phone": "(773) 794-4000"
+		}
+	]
+}
