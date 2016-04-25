@@ -75,6 +75,23 @@ background-color:#FBFBEF; /*Cream color, better than white? */
 .map{
 	float: right;
 }
+
+.editbutton {
+	height: 25px;
+	width: 45px;
+	background-color: #e6ffcc;
+	margin-left: 185px;
+	margin-top: 8px;
+}
+
+table.edittable {
+
+	border: 1px solid black;
+	float: center;
+	background-color: #e6ffcc;
+	padding: 25px;
+	margin-left: 50px;
+}
 /*
 div {
     width: 300px;
