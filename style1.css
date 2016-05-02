@@ -6,7 +6,7 @@
 }
 
 form.search_bar{
-	width: 2650px;
+	width: 1800px;
 	vertical-align: baseline;	
 }
 
@@ -20,7 +20,7 @@ td.search_bar_2{
 }
 
 input.search_bar{
-	padding: 30px;
+	padding: 20px;
 	height: 500px;
 }
 
@@ -135,10 +135,4 @@ h2.newaccount {
 	padding-bottom: 10px;
 	float: center;
 	
-}
-h4{
-	margin-left: 75px;
-	padding-bottom: 10px;
-	margin-right: auto;
-	float: center;
 }
