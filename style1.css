@@ -2,16 +2,16 @@
 	padding:0;
 	margin: 0;
 	text-decoration: none;
-	font-family: futura;
+	font-family: 'Futura', 'Josefin Sans', sans-serif;
 }
 
 form.search_bar{
-	width: 1800px;
+	width: 2638px;
 	vertical-align: baseline;	
 }
 
 form input[type="text"].search_bar{
-	height:60px;
+	height:50px;
 }
 
 td.search_bar_2{
@@ -28,6 +28,7 @@ input.search_bar{
 	background-color: #e6ffcc;
 	width: 70px;
 	height: 50px;
+	
 }
 
 nav {
@@ -35,7 +36,7 @@ nav {
 	width: 165px;
 	/*background-color: #e6ffcc; /* green color as well */
 	float: left;
-
+	
 }
 
 nav ul li{
@@ -46,6 +47,7 @@ nav ul li{
 	list-style: none;
 	border-bottom: 1px solid #66cc00;
 	vertical-align: middle;
+	
 
 }
 input[type="text"].createrepo{
@@ -58,6 +60,7 @@ table.createrepo{
 	background-color: #e6ffcc;
 	padding: 25px;
 	margin-left: 50px;
+	
 }
 
 table td.createrepo{
@@ -102,12 +105,29 @@ h2{
 	background-color: #e6ffcc;
 	width: 70px;
 	height: 50px;
+	
 }
 
 .button1{
 	background-color: #e6ffcc;
 	width: 70px;
 	height: 50px;
+	
+	
+}
+.button1editrepo{
+	background-color: #e6ffcc;
+	height: 25px;
+	width: 45px;
+	margin-left: 180px;
+	margin-top: 8px;
+	
+}
+.button1search{
+	background-color: #e6ffcc;
+	width: 70px;
+	height: 50px;
+	margin-left: 4px;
 }
 
 input[type="text"].newaccount{
@@ -118,8 +138,9 @@ input[type="text"].newaccount{
 	height: 25px;
 	width: 45px;
 	background-color: #e6ffcc;
-	margin-left: 185px;
+	margin-left: 172px;
 	margin-top: 8px;
+	
 }
 
 table.newaccount{
@@ -128,11 +149,34 @@ table.newaccount{
 	background-color: #e6ffcc;
 	padding: 25px;
 	margin-left: 50px;
+	
 }
 
 h2.newaccount {
-	margin-left: 97px;
+	margin-left: 115px;
 	padding-bottom: 10px;
 	float: center;
 	
+}
+h2.createrepository{
+	margin-left: 200px;
+	float: center;
+}
+h2.login{
+	margin-left: 172px;
+	float: center;
+}
+h2.editrepo{
+	float: center;
+	margin-left: 140px;
+}
+h2.dashboard{
+	float: center;
+	margin-left: 300px;
+}
+h4{
+	padding-left: 60px;
+}
+p{
+	margin-right: 200px;
 }

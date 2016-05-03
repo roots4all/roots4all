@@ -2,6 +2,7 @@
 <html>
     <div class="grid">
         <head>
+		  <link href='https://fonts.googleapis.com/css?family=Hind:500|Josefin+Sans' rel='stylesheet' type='text/css'>
           <link type="text/css" rel="stylesheet" href="style1.css">
           <link type="text/css" rel="stylesheet" href="grid.css">
         </head>
@@ -29,24 +30,25 @@
                 </header>
             <!--page 2-->
                 <div class="col-2-3">
-                    <h2>Edit a Repository</h2>
+                    <h2 class="editrepo">Edit a Repository</h2>
                     <h4>Please enter the organization name and city below.</h4>
+					
                     <br>
 
                     <form>
                         <table class ="createrepo">
                             <tr>
                                 <td align="right"><label for="orgname">Organization Name:</label></td>
-                                <td align="left"><input type="text" id="orgName" name="orgName"></td>
+                                <td align="left"><input type="text" class="newaccount" id="orgName" name="orgName"></td>
                             </tr>
                             <tr>
                                 <td align="right"><label for="city">City or Township:</label></td>
-                                <td align="left"><input type="text" id="city" name="city"></td>
+                                <td align="left"><input type="text" class="newaccount" id="city" name="city"></td>
                             </tr>
                         </table>
                     </form>
              
-                    <input class="button1" type="button" id="leftbutton" value="Search" data-inline="true">
+                    <input class="button1editrepo" type="button" id="leftbutton" value="Search" data-inline="true">
                 </div>
 
             </body>
